@@ -1,0 +1,21 @@
+img {
+    width: 200px;
+}
+
+/*Segundo elemento do tipo img */
+img:nth-of-type(2) {
+    width: 300px;
+}
+
+/*terceiro elemento do tipo img */
+img:nth-of-type(3) {
+    width: 400px;
+}
+
+p:nth-of-type(2) {
+    width: 500px;
+    height: 100px;
+    background-color: #ff7f50;
+    color: #ffffff;
+    text-align: center;
+}
